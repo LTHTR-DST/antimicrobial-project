@@ -1,2 +1,2 @@
-# antibiotic-project
-LTH and UoM Antibiotic Project
+# antimicrobial-project
+LTH and UoM Antimicrobial Project
